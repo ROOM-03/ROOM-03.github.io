@@ -104,6 +104,6 @@ theme: ghost-casper
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/ROOM-03/ROOM-03.github.io
+  repo: git@github.com:ROOM-03/ROOM-03.github.io.git
   branch: master
   message: hexo deploy!!!!!
